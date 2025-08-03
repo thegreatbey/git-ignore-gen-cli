@@ -2,6 +2,11 @@
 
 ![npm version](https://img.shields.io/npm/v/git-ignore-generator-creator-cli)
 ![downloads](https://img.shields.io/npm/dw/git-ignore-generator-creator-cli)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![CI/CD](https://github.com/thegreatbey/git-ignore-gen-cli/actions/workflows/publish.yml/badge.svg)](https://github.com/thegreatbey/git-ignore-gen-cli/actions)
+[![Code Style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](https://standardjs.com/)
+[![npm install](https://img.shields.io/badge/npm%20install--g%20git--ignore--generator--creator--cli-blue.svg)](https://www.npmjs.com/package/git-ignore-generator-creator-cli)
+
 
 A fast, offline CLI to generate .gitignore files for Node, Python, Java, React, and more. Generate `.gitignore` files for multiple tech stacks quickly.  
 No need to search online — create your `.gitignore` instantly from common templates like **Node.js**, **React**, **Python**, and more.
