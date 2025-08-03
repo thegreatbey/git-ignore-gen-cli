@@ -1,6 +1,9 @@
-# git-ignore-gen-cli
+# git-ignore-generator-creator-cli
 
-A simple CLI tool to generate `.gitignore` files for multiple tech stacks quickly.  
+![npm version](https://img.shields.io/npm/v/git-ignore-generator-creator-cli)
+![downloads](https://img.shields.io/npm/dw/git-ignore-generator-creator-cli)
+
+A fast, offline CLI to generate .gitignore files for Node, Python, Java, React, and more. Generate `.gitignore` files for multiple tech stacks quickly.  
 No need to search online — create your `.gitignore` instantly from common templates like **Node.js**, **React**, **Python**, and more.
 
 ---
