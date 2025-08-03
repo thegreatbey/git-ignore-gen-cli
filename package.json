@@ -1,6 +1,6 @@
 {
   "name": "git-ignore-generator-creator-cli",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Generate .gitignore files quickly for multiple tech stacks",
   "bin": {
     "git-ignore-gen": "./bin/index.js"
