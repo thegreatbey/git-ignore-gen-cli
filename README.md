@@ -14,7 +14,7 @@ No need to search online — create your `.gitignore` instantly from common temp
 ---
 
 ## Installation
-npm install -g git-ignore-gen-cli
+npm install -g git-ignore-generator-creator-cli
 
 ---
 

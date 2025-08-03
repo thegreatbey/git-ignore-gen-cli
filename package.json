@@ -1,5 +1,5 @@
 {
-  "name": "git-ignore-gen-cli",
+  "name": "git-ignore-generator-creator-cli",
   "version": "0.1.0",
   "description": "Generate .gitignore files quickly for multiple tech stacks",
   "bin": {
