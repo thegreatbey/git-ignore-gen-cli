@@ -11,6 +11,29 @@ No need to search online — create your `.gitignore` instantly from common temp
 - Includes templates for Node.js, React, Python, VSCode, and more.
 - Lightweight and fast.
 
+
+---
+
+## Supported Templates
+Currently includes templates for:
+
+- node
+- react
+- vscode
+- python
+- docker
+- java
+- go
+- php
+- ruby
+- dotnet
+- angular
+- flutter
+- rust
+- cpp
+- swift
+
+
 ---
 
 ## Installation
